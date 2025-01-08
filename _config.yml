@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "XUAN AI PHAM / PhD Researcher"
+title                    : "XUAN-AI PHAM / PhD Researcher"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xuan"
+  name             : "Xuan-Ai Pham"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at KU Leuven"
   location         : "Leuven, Belgium"
