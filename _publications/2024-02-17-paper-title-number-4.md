@@ -1,7 +1,7 @@
 ---
 title: "Integrated multi-omics reveal polycomb repressive complex 2 restricts human trophoblast induction"
 collection: publications
-category: conferences
+category: co_author
 permalink: /publication/2024-02-17-paper-title-number-4
 #excerpt: 'This paper is about fixing template issue #693.'
 date: 2022-06-13
