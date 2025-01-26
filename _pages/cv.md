@@ -45,14 +45,6 @@ Education
   
 Bioinformatic Skills
 ======
-* Programming: R, Python, Bash
-* Single-cell analysis: Seurat, SingleCellExperiment, Scanpy, Monocle, SCENIC
-* Analysed Datasets:
-  * Single-cell RNA-seq
-  * Single-cell ATAC-seq
-  * Bulk RNA-seq
-  * Cut&Run
-
 * Programming and Scripting
   * Proficient in Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Biopython)
   * R programming (ggplot2, dplyr, DESeq2, edgeR) for statistical analysis and visualization
