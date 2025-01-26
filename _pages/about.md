@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!!!!!"
+title: "Hi! I'm Xuan-Ai, and it's nice to meet you."
 author_profile: true
 redirect_from: 
   - /about/
