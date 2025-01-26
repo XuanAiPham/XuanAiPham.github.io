@@ -1,5 +1,5 @@
 ---
-title: "c"
+title: "Modeling human extraembryonic mesoderm cells using naive pluripotent stem cells"
 collection: publications
 category: first_author
 #permalink: /publication/2009-10-01-paper-title-number-1
