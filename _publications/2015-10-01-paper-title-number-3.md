@@ -1,7 +1,7 @@
 ---
 title: "Complete human day 14 post-implantation embryo models from naive ES cells"
 collection: publications
-#category: co_author
+category: co_author
 permalink: /publication/2024-02-17-paper-title-number-4
 #excerpt: 'This paper is about fixing template issue #693.'
 date: 2023-09-16
