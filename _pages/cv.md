@@ -9,37 +9,105 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct 2020 - Present: Ph.D Researcher, KU Leuven, Belgium
+  * Implemented genome editing and high-throughput sequencing techniques to study embryogenesis.
+  * Conducted large-scale genomic data analysis.
+  * Published first-author paper in Cell Stem Cell
+  * Collaborated with several multidisciplinary national and international team members to achieve common research goals
+  * Demonstrated strong organisational and time management skills while managing two different projects at the same time
+  * Supervised 3 master students
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2018 - Jun 2020: Master student, KU Leuven, Belgium
+  * Proven ability to learn quickly and adapt to new situations
+  * Took initiative in setting up new protocols
+  * Demonstrated attention to detail and analytical skills through precise experimental techniques and imaging analysis
+  * Lab rotations:
+    * 18/03/2019 - 19/04/2019. Laboratory of Reproductive Genomics
+      * Topic: Single-cell sequencing to understand the biology of cellular heterogeneity in cancer
+    * 12/02/2019 - 15/03/2019. Laboratory for Human Evolutionary Genetics
+      * Topic: Evolutionary basis of disease-associated genetic variation
+    * 19/11/2018 - 21/12/2018. Laboratory of Computational Biology (VIB-KU Leuven Center for Brain & Disease Research)
+      * Topic: Single-cell transcriptomics: Analyse single-cell RNA-seq data of complex tissues
+#* Summer 2015: Research Assistant
+  #* Github University
+  #* Duties included: Tagging issues
+  #* Supervisor: Professor Git
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Biomedical Sciences, KU Leuven, Belgium (Expected Graduation: April 2025)
+  * Dissertation: Decoding human early embryonic development
+* M.S. in Biomedical Sciences, KU Leuven, Belgium (2018-2020)
+  * Master thesis: Determining the transcription factors important for the maintenance of human naive pluripotent stem cells 
+* B.S. in Pharmaceutical Sciences, Hanoi University of Pharmacy, Vietnam (2012-2017)
+  * Bachelor thesis: G-quadruplex in Chromosome of Bacteria: Distribution and Sequence of Nucleotide 
+
+  
+Bioinformatic Skills
+======
+* Programming: R, Python, Bash
+* Single-cell analysis: Seurat, SingleCellExperiment, Scanpy, Monocle, SCENIC
+* Analysed Datasets:
+  * Single-cell RNA-seq
+  * Single-cell ATAC-seq
+  * Bulk RNA-seq
+  * Cut&Run
+
+* Programming and Scripting
+  * Proficient in Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Biopython)
+  * R programming (ggplot2, dplyr, DESeq2, edgeR) for statistical analysis and visualization
+  * Bash scripting for task automation and pipeline development
+
+* Data Analysis
+  * Processing and analysis of next-generation sequencing (NGS) data (RNA-seq, scRNA-seq, scATAC-seq, CUT&RUN)
+  * Differential gene expression analysis (DESeq2, limma)
+  * Single-cell RNA-seq analysis using Seurat, SingleCellExperiment, Scanpy, Monocle and SCENIC
+  * Pathway and gene set enrichment analysis (GSEA, Reactome, DAVID, CellPhoneDB)
+    
+* Genomics and Structural Bioinformatics
+  * Variant calling and annotation (GATK, bcftools, ANNOVAR)
+
+* Data Visualization
+  * Creating publication-ready plots and graphs using R (ggplot2) and Python (Matplotlib, Plotly)
+  * Custom visualization of genomic data with IGV and UCSC Genome Browser
+
+* Bioinformatics Tools and Pipelines
+  * Experience with tools like STAR, Bowtie2 for alignment
+  * Analysis on high-performance computing (HPC) clusters
+    
+* Databases and Resources
+  * Familiarity with databases such as NCBI, Ensembl, UCSC, and KEGG
+
+Laboratory Skills
+======
+* Molecular Biology
+  * DNA/RNA extraction and purification
+  * PCR, qPCR, and RT-PCR
+  * Gel electrophoresis
+  * Cloning, plasmid construction, and transformation
+ 
+* Cell Culture
+  * Maintenance of human pluripotent stem cells
+  * Generation of organoids
+  * Cryopreservation and thawing of cells
+  * Transfection and viral transduction
+
+* Microscopy and Imaging
+  * Immunofluorescence staining and imaging
+  * Confocal microscopy (sample preparation and image analysis)
+  * Live-cell imaging
+
+#* Protein Analysis
+  #* Western blotting and immunoprecipitation
+  #* Protein quantification (BCA assay, Bradford assay)
+
+Fellowships
+======
+FWO Ph.D Fundamental Research Fellowship Nov 2021 - Oct 2025
 
 Publications
 ======
@@ -47,18 +115,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#Talks
+#======
+  #<ul>{% for post in site.talks reversed %}
+    #{% include archive-single-talk-cv.html  %}
+  #{% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+  #<ul>{% for post in site.teaching reversed %}
+   #{% include archive-single-cv.html %}
+  #{% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
