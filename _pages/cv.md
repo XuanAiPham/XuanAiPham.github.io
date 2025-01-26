@@ -32,10 +32,6 @@ Work experience
       * Topic: Evolutionary basis of disease-associated genetic variation
     * 19/11/2018 - 21/12/2018. Laboratory of Computational Biology (VIB-KU Leuven Center for Brain & Disease Research)
       * Topic: Single-cell transcriptomics: Analyse single-cell RNA-seq data of complex tissues
-#* Summer 2015: Research Assistant
-  #* Github University
-  #* Duties included: Tagging issues
-  #* Supervisor: Professor Git
 
 Education
 ======
@@ -101,9 +97,7 @@ Laboratory Skills
   * Confocal microscopy (sample preparation and image analysis)
   * Live-cell imaging
 
-#* Protein Analysis
-  #* Western blotting and immunoprecipitation
-  #* Protein quantification (BCA assay, Bradford assay)
+
 
 Fellowships
 ======
@@ -115,18 +109,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Talks
-#======
-  #<ul>{% for post in site.talks reversed %}
-    #{% include archive-single-talk-cv.html  %}
-  #{% endfor %}</ul>
-  
-#Teaching
-#======
-  #<ul>{% for post in site.teaching reversed %}
-   #{% include archive-single-cv.html %}
-  #{% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
+
