@@ -10,8 +10,4 @@ venue: 'Cell Stem Cell'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S193459092200337X?via%3Dihub'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-
-Summary
-
-
 A hallmark of primate postimplantation embryogenesis is the specification of extraembryonic mesoderm (EXM) before gastrulation, in contrast to rodents where this tissue is formed only after gastrulation. Here, we discover that naive human pluripotent stem cells (hPSCs) are competent to differentiate into EXM cells (EXMCs). EXMCs are specified by inhibition of Nodal signaling and GSK3B, are maintained by mTOR and BMP4 signaling activity, and their transcriptome and epigenome closely resemble that of human and monkey embryo EXM. EXMCs are mesenchymal, can arise from an epiblast intermediate, and are capable of self-renewal. Thus, EXMCs arising via primate-specific specification between implantation and gastrulation can be modeled in vitro. We also find that most of the rare off-target cells within human blastoids formed by triple inhibition (Kagawa et al., 2021) correspond to EXMCs. Our study impacts our ability to model and study the molecular mechanisms of early human embryogenesis and related defects.
