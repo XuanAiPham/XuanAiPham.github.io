@@ -1,14 +1,14 @@
 ---
-title: "Modeling Human Extraembryonic Mesoderm Cells Using Naive Pluripotent Stem Cells"
+title: "c"
 collection: publications
-category: manuscripts
+category: first_author
 #permalink: /publication/2009-10-01-paper-title-number-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-09-01
 venue: 'Cell Stem Cell'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'https://www.sciencedirect.com/science/article/pii/S193459092200337X?via%3Dihub'
-#citation: 'Pham et al. (2022). &quot;Modeling Human Extraembryonic Mesoderm Cells Using Naive Pluripotent Stem Cells.&quot; <i>Cell Stem Cell 1</i>. 1(1).'
+paperurl: '10.1016/j.stem.2022.08.001'
+citation: 'Pham et al. (2022). &quot;Modeling Human Extraembryonic Mesoderm Cells Using Naive Pluripotent Stem Cells.&quot; <i>Cell Stem Cell 1</i>. 1(1).'
 ---
 ## Summary
 <div style="text-align: justify;">
