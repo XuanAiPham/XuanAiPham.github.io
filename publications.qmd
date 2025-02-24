@@ -1,0 +1,50 @@
+---
+title: "Publications"
+editor: visual
+---
+
+[*Google Scholar Profile*](https://scholar.google.com/citations?user=sDhpZpoAAAAJ&hl=en)
+
+## **First author articles**
+
+### [**Modeling human extraembryonic mesoderm cells using naive pluripotent stem cells**](https://pdf.sciencedirectassets.com/274143/1-s2.0-S1934590921X00100/1-s2.0-S193459092200337X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEB4aCXVzLWVhc3QtMSJGMEQCID0aKpvBtoCXkMQHuf6JmGOeS50W1GLawxxzlJ8r7Pl7AiATB38oGuNK7Ro%2B%2FTEq64UYa1iFY56ukqNJvIV224wDfSqyBQg2EAUaDDA1OTAwMzU0Njg2NSIM1QQqvaX47WZe%2Fw6TKo8FvUGboByTEZzWI4B7BphiVMvA6lyKpcRCp6SGdgfTatzxPit52txl8fQfDNvJLKUPC8cwsz0LQjbQBdFIhgRuvli2vIolLlQK0QjSijMVyUx7NmXEN8IkfhbQ9cJ4mF6%2FrDdkapp%2BBXX7Pvrq1058EoFAPIKWynr6UJ2FfudvntgPjF7aEuy5I%2FgYovVcQFkD%2BZUZVMjn3zfTYweRI1If9q0A%2F%2BFkJKNteThL0eOND7J1%2Bxhu8DJDVoHVFfGHG5T4dxS74gWs%2FHI3Yr2bziGLu087MBWu4F4mhhsG6dfPJ7hfYtcFpCgicn7qfeFN4QZyy6yQoPfTwxBO20OeZNPuhNXC9qQSeS2qlx459645C0NY12HCb9jTf0270Npt2anD9QvO9vDlZcJvPOs1TyFRYnWwOEANCuXXKBHWktXr1qjaKsCsZgNqXbQIteTAE0OpXywf0S7LwDpCczp3Bdo59Qiqy04o0IcnZPKqqYSVYjh6NNXSmBMKYk4SeKJbrwPGyf2mW1Anfs%2BgDFswFThXKtbC6%2Bb5MDolOONTRiXp1FMpFzGVsLPQVnILlZhnazAAppFS6AWS0To6SE6V5SuKry%2FjQzW4P89HDi8DsCu3dZ1Z8HThtzQH%2B3BcjXKaUPJMbd2aj0yCTDtplV3qKfLRyTJFFr8t6CHJBEK8ML%2Bf40Z8tX49MwgujwzVjMD1LxGdKb%2F7gqTYgUCy55SJzQ3eAf9VzUpmJLHutHdeYV8QGURI3p8S3U%2BoXV0ewzJe%2Bag70JMqYv0ROFvjABDqjSm%2F070P9w6t58MmKC0DFnZE6ZaCC9ZaE6i9JHKbaIqHbhsGNpNDoIdv%2B52OOxt7hT1ZKRTFJqLHJdtw2zD0Z6Gd2jDRhIq9BjqyAXmwevfwKfVyvVuxDgIAOaoZOJy13FeBzfPHfY0oaVE4ezAoFKUEiGpQzgcK9IWKvvajqA%2FJtGzU5sDhaHERpjVdxy00brWk4e5bsfafxKhYyuozv%2BYvrXOPcYBy4y2BDs%2FdWzgbVjIchPTaCfaDAX%2Fy2fEryIlQYtmDIrPJVTQDisxesBZrd4oh0OmDGrnYzSjeKbdh86H7DcEiYzpOEPf6LLabBmXHvb9AhYuSm3GN%2BK4%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250204T215910Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYX5O5DPDL%2F20250204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5d3da1d7978a0b8e85ece438ca652a1872d82108b6b4204a597bbccf37d4d390&hash=adfaef4c3efb70958b8f9ce7fa55bb0dbadfcaf8dfaf9db91fb239d51ee75db9&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S193459092200337X&tid=spdf-52fd6cc6-7c3c-4877-96b1-c3b0324c9cb1&sid=82a68f91747d5347a389c0469727f82f9522gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=180356520400020a530854&rr=90cded1f6ff9ba7b&cc=be) {style="color: black"}
+
+Published in *Cell Stem Cell*, 2022
+
+### Summary
+
+::: {style="text-align: justify;"}
+A hallmark of primate postimplantation embryogenesis is the specification of extraembryonic mesoderm (EXM) before gastrulation, in contrast to rodents where this tissue is formed only after gastrulation. Here, we discover that naive human pluripotent stem cells (hPSCs) are competent to differentiate into EXM cells (EXMCs). EXMCs are specified by inhibition of Nodal signaling and GSK3B, are maintained by mTOR and BMP4 signaling activity, and their transcriptome and epigenome closely resemble that of human and monkey embryo EXM. EXMCs are mesenchymal, can arise from an epiblast intermediate, and are capable of self-renewal. Thus, EXMCs arising via primate-specific specification between implantation and gastrulation can be modeled in vitro. We also find that most of the rare off-target cells within human blastoids formed by triple inhibition (Kagawa et al., 2021) correspond to EXMCs. Our study impacts our ability to model and study the molecular mechanisms of early human embryogenesis and related defects.
+:::
+
+## **Co-author articles**
+
+## [**Feeder-free culture of naive human pluripotent stem cells retaining embryonic, extraembryonic and blastoid generation potential**](https://www.biorxiv.org/content/10.1101/2025.01.17.633522v2.full.pdf)
+
+Published in *bioRxiv*, 2024
+
+### Summary
+
+::: {style="text-align: justify;"}
+Conventional human pluripotent stem cells (hPSCs) are widely used to study early embryonic development, generate somatic cells, and model diseases, with differentiation potential aligned to a post-implantation epiblast identity. In the past decade, naive hPSCs, representing a pre-implantation stage, have been derived. Naive hPSCs efficiently differentiate towards embryonic and extraembryonic lineages such as trophectoderm, primitive endoderm, and extraembryonic mesoderm, and also self-organize into blastocyst-like structures called blastoids. However, their culture typically relies on mouse embryonic fibroblasts (MEFs), which are variable, resource-intensive, and can confound analyses. We report the long-term maintenance of naive hPSCs in a feeder-free, serum-coated system. We successfully expanded for up to 25 passages 8 different naive hPSCs lines across 5 laboratories. Growth rate, clonogenicity, and gene expression profiles on serum coating were comparable to MEF-based cultures, but serum coating eliminated fibroblast contamination. Naive hPSCs cultured on serum exhibited more efficient germ layer specification, retained trophectoderm potential and high blastoid formation efficiency. Exome sequencing revealed fewer mutations in serum-cultured cells, and mass spectrometry identified extracellular matrix proteins such as vitronectin, fibronectin, and collagens in the serum coating. Overall, serum coating offers a scalable, cost-effective and therefore widely applicable alternative for naive hPSC culture, maintaining developmental potential, reducing DNA mutations, and eliminating MEF-related confounding factors. We believe serum coating will expand the use of naive hPSCs to large-scale studies and facilitate the investigation of mechanistic insights into developmental and disease modelling.
+:::
+
+## [**Complete human day 14 post-implantation embryo models from naive ES cells**](https://www.nature.com/articles/s41586-023-06604-5)
+
+Published in *Nature*, 2023
+
+### Summary
+
+::: {style="text-align: justify;"}
+The ability to study human post-implantation development remains limited owing to ethical and technical challenges associated with intrauterine development after implantation. Embryo-like models with spatially organized morphogenesis and structure of all defining embryonic and extra-embryonic tissues of the post-implantation human conceptus (that is, the embryonic disc, the bilaminar disc, the yolk sac, the chorionic sac, and the surrounding trophoblast layer) remain lacking. Mouse naive embryonic stem cells have recently been shown to give rise to embryonic and extra-embryonic stem cells capable of self-assembling into post-gastrulation structured stem-cell-based embryo models with spatially organized morphogenesis (called SEMs). Here we extend those findings to humans using only genetically unmodified human naive embryonic stem cells (cultured in human-enhanced naive stem cell medium conditions). Such human fully integrated and complete SEMs recapitulate the organization of nearly all known lineages and compartments of post-implantation human embryos, including the epiblast, the hypoblast, the extra-embryonic mesoderm and the trophoblast layer surrounding the latter compartments. These human complete SEMs demonstrated developmental growth dynamics that resemble key hallmarks of post-implantation stage embryogenesis up to 13-14 days after fertilization (Carnegie stage 6a). These include embryonic disc and bilaminar disc formation, epiblast lumenogenesis, polarized amniogenesis, anterior-posterior symmetry breaking, primordial germ-cell specification, polarized yolk sac with visceral and parietal endoderm formation, extra-embryonic mesoderm expansion that defines a chorionic cavity and a connecting stalk, and a trophoblast-surrounding compartment demonstrating syncytium and lacunae formation. This SEM platform will probably enable the experimental investigation of previously inaccessible windows of human early post implantation up to peri-gastrulation development.
+:::
+
+## [**Integrated multi-omics reveal polycomb repressive complex 2 restricts human trophoblast induction**](https://www.nature.com/articles/s41556-022-00932-w)
+
+Published in *Nature Cell Biology*, 2022
+
+### Summary
+
+::: {style="text-align: justify;"}
+Human naive pluripotent stem cells have unrestricted lineage potential. Underpinning this property, naive cells are thought to lack chromatin-based lineage barriers. However, this assumption has not been tested. Here we define the chromatin-associated proteome, histone post-translational modifications, and transcriptome of human naive and primed pluripotent stem cells. Our integrated analysis reveals differences in the relative abundance and activities of distinct chromatin modules. We identify a strong enrichment of polycomb repressive complex 2 (PRC2)-associated H3K27me3 in the chromatin of naive pluripotent stem cells and H3K27me3 enrichment at promoters of lineage-determining genes, including trophoblast regulators. PRC2 activity acts as a chromatin barrier restricting the differentiation of naive cells towards the trophoblast lineage, whereas inhibition of PRC2 promotes trophoblast-fate induction and cavity formation in human blastoids. Together, our results establish that human naive pluripotent stem cells are not epigenetically unrestricted, but instead possess chromatin mechanisms that oppose the induction of alternative cell fates.
+:::

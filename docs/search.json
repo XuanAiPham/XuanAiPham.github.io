@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Xuan-Ai Pham, PhD Researcher",
+    "section": "",
+    "text": "Hi! I’m Xuan-Ai, a computational biologist\n\nThanks for visiting my website! I am a PhD candidate at the Stem Cell Institute at KU Leuven, Belgium, specializing in human pluripotent stem cells. My research focuses on uncovering the factors that drive cell fate specification during human embryo development, using advanced single-cell omics techniques and genome editing. I am passionate about using bioinformatics to drive innovative breakthroughs in science and am always eager to tackle new challenges."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Information",
+    "section": "",
+    "text": "Xuan-Ai Pham, PhD\nEmail: xuanai.pham@gmail.com\nPhone: +32484209673"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Work experience",
+    "section": "",
+    "text": "Work experience\n\nOct 2020 - Present: Ph.D Researcher, KU Leuven, Belgium\n\nImplemented genome editing and high-throughput sequencing techniques to study embryogenesis.\nConducted large-scale genomic data analysis.\nPublished first-author paper in Cell Stem Cell [Impact factor: 19.8], recognized by multiple media platforms for its scientific significance\nCollaborated with several multidisciplinary national and international team members to achieve common research goals\nDemonstrated strong organisational and time management skills while managing two different projects at the same time\nSupervised 3 master students\n\n\n\nSep 2018 - Jun 2020: Master student, KU Leuven, Belgium\n\nTook initiative in setting up new protocols\nDemonstrated attention to detail and analytical skills through precise experimental techniques and imaging analysis\nLab rotations:\n\n18/03/2019 - 19/04/2019. Laboratory of Reproductive Genomics\n\nTopic: Single-cell sequencing to understand the biology of cellular heterogeneity in cancer\n\n12/02/2019 - 15/03/2019. Laboratory for Human Evolutionary Genetics\n\nTopic: Evolutionary basis of disease-associated genetic variation\n\n19/11/2018 - 21/12/2018. Laboratory of Computational Biology (VIB-KU Leuven Center for Brain & Disease Research)\n\nTopic: Single-cell transcriptomics: Analyse single-cell RNA-seq data of complex tissues\n\n\n\n\n\n\nEducation\n\nPh.D in Biomedical Sciences, KU Leuven, Belgium (Expected Graduation: April 2025)\n\nDissertation: Decoding human early embryonic development\n\nM.S. in Biomedical Sciences, KU Leuven, Belgium (2018-2020)\n\nMaster thesis: Determining the transcription factors important for the maintenance of human naive pluripotent stem cells\n\nB.S. in Pharmaceutical Sciences, Hanoi University of Pharmacy, Vietnam (2012-2017)\n\nBachelor thesis: G-quadruplex in Chromosome of Bacteria: Distribution and Sequence of Nucleotide\n\n\n\n\nBioinformatic Skills\n\nProgramming and Scripting\n\nProficient in Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Biopython)\nR programming (ggplot2, dplyr, DESeq2, edgeR) for statistical analysis and visualization\nBash scripting for task automation and pipeline development\n\nData Analysis\n\nProcessing and analysis of next-generation sequencing (NGS) data (RNA-seq, scRNA-seq, scATAC-seq, CUT&RUN)\nDifferential gene expression analysis (DESeq2, limma)\nSingle-cell RNA-seq analysis using Seurat, SingleCellExperiment, Scanpy, Monocle and SCENIC\nPathway and gene set enrichment analysis (GSEA, Reactome, DAVID, CellPhoneDB)\n\nGenomics and Structural Bioinformatics\n\nVariant calling and annotation (GATK, bcftools, ANNOVAR)\n\nData Visualization\n\nCreating publication-ready plots and graphs using R (ggplot2) and Python (Matplotlib, Plotly)\nCustom visualization of genomic data with IGV and UCSC Genome Browser\n\nBioinformatics Tools and Pipelines\n\nExperience with tools like STAR, Bowtie2 for alignment\nAnalysis on high-performance computing (HPC) clusters\n\nDatabases and Resources\n\nFamiliarity with databases such as NCBI, Ensembl, UCSC, and KEGG\n\n\n\n\nLaboratory Skills\n\nMolecular Biology\n\nDNA/RNA extraction and purification\nPCR, qPCR, and RT-PCR\nGel electrophoresis\nCloning, plasmid construction, and transformation\n\nCell Culture\n\nMaintenance of human pluripotent stem cells\nGeneration of organoids\nCryopreservation and thawing of cells\nTransfection and viral transduction\n\nMicroscopy and Imaging\n\nImmunofluorescence staining and imaging\nConfocal microscopy (sample preparation and image analysis)\nLive-cell imaging\n\n\n\n\nOther Skills\n\nGood communication skills: Worked effectively with multidisciplinary national and international teams to achieve shared research goals\nStrong organizational skills: Successfully managed two projects simultaneously while ensuring timely completion and high-quality outcomes\nMentorship experience: Supervised and guided master’s students\nFellowships\n\nFWO Ph.D Fundamental Research Fellowship Nov 2021 - Oct 2025\n\n\nPublications\nPlease visit my Google Scholar"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar Profile"
+  },
+  {
+    "objectID": "publications.html#first-author-articles",
+    "href": "publications.html#first-author-articles",
+    "title": "Publications",
+    "section": "First author articles",
+    "text": "First author articles\n\nModeling human extraembryonic mesoderm cells using naive pluripotent stem cells\nPublished in Cell Stem Cell, 2022\n\n\nSummary\n\nA hallmark of primate postimplantation embryogenesis is the specification of extraembryonic mesoderm (EXM) before gastrulation, in contrast to rodents where this tissue is formed only after gastrulation. Here, we discover that naive human pluripotent stem cells (hPSCs) are competent to differentiate into EXM cells (EXMCs). EXMCs are specified by inhibition of Nodal signaling and GSK3B, are maintained by mTOR and BMP4 signaling activity, and their transcriptome and epigenome closely resemble that of human and monkey embryo EXM. EXMCs are mesenchymal, can arise from an epiblast intermediate, and are capable of self-renewal. Thus, EXMCs arising via primate-specific specification between implantation and gastrulation can be modeled in vitro. We also find that most of the rare off-target cells within human blastoids formed by triple inhibition (Kagawa et al., 2021) correspond to EXMCs. Our study impacts our ability to model and study the molecular mechanisms of early human embryogenesis and related defects."
+  },
+  {
+    "objectID": "publications.html#co-author-articles",
+    "href": "publications.html#co-author-articles",
+    "title": "Publications",
+    "section": "Co-author articles",
+    "text": "Co-author articles"
+  },
+  {
+    "objectID": "publications.html#feeder-free-culture-of-naive-human-pluripotent-stem-cells-retaining-embryonic-extraembryonic-and-blastoid-generation-potential",
+    "href": "publications.html#feeder-free-culture-of-naive-human-pluripotent-stem-cells-retaining-embryonic-extraembryonic-and-blastoid-generation-potential",
+    "title": "Publications",
+    "section": "Feeder-free culture of naive human pluripotent stem cells retaining embryonic, extraembryonic and blastoid generation potential",
+    "text": "Feeder-free culture of naive human pluripotent stem cells retaining embryonic, extraembryonic and blastoid generation potential\nPublished in bioRxiv, 2024\n\nSummary\n\nConventional human pluripotent stem cells (hPSCs) are widely used to study early embryonic development, generate somatic cells, and model diseases, with differentiation potential aligned to a post-implantation epiblast identity. In the past decade, naive hPSCs, representing a pre-implantation stage, have been derived. Naive hPSCs efficiently differentiate towards embryonic and extraembryonic lineages such as trophectoderm, primitive endoderm, and extraembryonic mesoderm, and also self-organize into blastocyst-like structures called blastoids. However, their culture typically relies on mouse embryonic fibroblasts (MEFs), which are variable, resource-intensive, and can confound analyses. We report the long-term maintenance of naive hPSCs in a feeder-free, serum-coated system. We successfully expanded for up to 25 passages 8 different naive hPSCs lines across 5 laboratories. Growth rate, clonogenicity, and gene expression profiles on serum coating were comparable to MEF-based cultures, but serum coating eliminated fibroblast contamination. Naive hPSCs cultured on serum exhibited more efficient germ layer specification, retained trophectoderm potential and high blastoid formation efficiency. Exome sequencing revealed fewer mutations in serum-cultured cells, and mass spectrometry identified extracellular matrix proteins such as vitronectin, fibronectin, and collagens in the serum coating. Overall, serum coating offers a scalable, cost-effective and therefore widely applicable alternative for naive hPSC culture, maintaining developmental potential, reducing DNA mutations, and eliminating MEF-related confounding factors. We believe serum coating will expand the use of naive hPSCs to large-scale studies and facilitate the investigation of mechanistic insights into developmental and disease modelling."
+  },
+  {
+    "objectID": "publications.html#complete-human-day-14-post-implantation-embryo-models-from-naive-es-cells",
+    "href": "publications.html#complete-human-day-14-post-implantation-embryo-models-from-naive-es-cells",
+    "title": "Publications",
+    "section": "Complete human day 14 post-implantation embryo models from naive ES cells",
+    "text": "Complete human day 14 post-implantation embryo models from naive ES cells\nPublished in Nature, 2023\n\nSummary\n\nThe ability to study human post-implantation development remains limited owing to ethical and technical challenges associated with intrauterine development after implantation. Embryo-like models with spatially organized morphogenesis and structure of all defining embryonic and extra-embryonic tissues of the post-implantation human conceptus (that is, the embryonic disc, the bilaminar disc, the yolk sac, the chorionic sac, and the surrounding trophoblast layer) remain lacking. Mouse naive embryonic stem cells have recently been shown to give rise to embryonic and extra-embryonic stem cells capable of self-assembling into post-gastrulation structured stem-cell-based embryo models with spatially organized morphogenesis (called SEMs). Here we extend those findings to humans using only genetically unmodified human naive embryonic stem cells (cultured in human-enhanced naive stem cell medium conditions). Such human fully integrated and complete SEMs recapitulate the organization of nearly all known lineages and compartments of post-implantation human embryos, including the epiblast, the hypoblast, the extra-embryonic mesoderm and the trophoblast layer surrounding the latter compartments. These human complete SEMs demonstrated developmental growth dynamics that resemble key hallmarks of post-implantation stage embryogenesis up to 13-14 days after fertilization (Carnegie stage 6a). These include embryonic disc and bilaminar disc formation, epiblast lumenogenesis, polarized amniogenesis, anterior-posterior symmetry breaking, primordial germ-cell specification, polarized yolk sac with visceral and parietal endoderm formation, extra-embryonic mesoderm expansion that defines a chorionic cavity and a connecting stalk, and a trophoblast-surrounding compartment demonstrating syncytium and lacunae formation. This SEM platform will probably enable the experimental investigation of previously inaccessible windows of human early post implantation up to peri-gastrulation development."
+  },
+  {
+    "objectID": "publications.html#integrated-multi-omics-reveal-polycomb-repressive-complex-2-restricts-human-trophoblast-induction",
+    "href": "publications.html#integrated-multi-omics-reveal-polycomb-repressive-complex-2-restricts-human-trophoblast-induction",
+    "title": "Publications",
+    "section": "Integrated multi-omics reveal polycomb repressive complex 2 restricts human trophoblast induction",
+    "text": "Integrated multi-omics reveal polycomb repressive complex 2 restricts human trophoblast induction\nPublished in Nature Cell Biology, 2022\n\nSummary\n\nHuman naive pluripotent stem cells have unrestricted lineage potential. Underpinning this property, naive cells are thought to lack chromatin-based lineage barriers. However, this assumption has not been tested. Here we define the chromatin-associated proteome, histone post-translational modifications, and transcriptome of human naive and primed pluripotent stem cells. Our integrated analysis reveals differences in the relative abundance and activities of distinct chromatin modules. We identify a strong enrichment of polycomb repressive complex 2 (PRC2)-associated H3K27me3 in the chromatin of naive pluripotent stem cells and H3K27me3 enrichment at promoters of lineage-determining genes, including trophoblast regulators. PRC2 activity acts as a chromatin barrier restricting the differentiation of naive cells towards the trophoblast lineage, whereas inhibition of PRC2 promotes trophoblast-fate induction and cavity formation in human blastoids. Together, our results establish that human naive pluripotent stem cells are not epigenetically unrestricted, but instead possess chromatin mechanisms that oppose the induction of alternative cell fates."
+  }
+]
