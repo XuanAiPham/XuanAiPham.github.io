@@ -15,7 +15,7 @@ about:
       href: mailto:xuanai.pham@gmail.com
     - icon: linkedin
       text: LinkedIn
-      href: linkedin.com/in/xuan-ai-pham-2b781b158
+      href: https://www.linkedin.com/in/xuan-ai-pham-2b781b158/
 ---
 
 **Hi! I’m Xuan-Ai, a computational biologist**
