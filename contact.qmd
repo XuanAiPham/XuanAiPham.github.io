@@ -5,5 +5,3 @@ editor: visual
 
 Xuan-Ai Pham, PhD\
 Email: xuanai.pham\@gmail.com
-
-Phone: +32484209673\
