@@ -1,0 +1,94 @@
+---
+editor: visual
+---
+
+# Work experience
+
+#### Oct 2020 - Apr 2025: Ph.D Researcher, KU Leuven, Belgium
+
+-   Implemented genome editing and high-throughput sequencing techniques to study embryogenesis
+-   Conducted large-scale genomic data analysis using high-performance computing systems
+-   Built a reference human embryo atlas by integrating multiple publicly available datasets
+-   Published first-author paper in Cell Stem Cell \[Impact factor: 19.8\], recognized by multiple media platforms for its scientific significance
+-   Collaborated with several multidisciplinary national and international team members to achieve common research goals
+-   Demonstrated strong organisational and time management skills while managing two different projects at the same time
+-   Supervised three master students
+
+#### Sep 2018 - Jun 2020: Master student, KU Leuven, Belgium
+
+-   Established and optimised protocols for the conversion of human primed pluripotent stem cells into human naive pluripotent stem cells
+-   Demonstrated attention to detail and analytical skills through precise experimental techniques and imaging analysis
+-   Lab rotations:
+    -   18/03/2019 - 19/04/2019. Laboratory of Reproductive Genomics
+        -   Topic: Single-cell sequencing to understand the biology of cellular heterogeneity in cancer
+    -   12/02/2019 - 15/03/2019. Laboratory for Human Evolutionary Genetics
+        -   Topic: Evolutionary basis of disease-associated genetic variation
+    -   19/11/2018 - 21/12/2018. Laboratory of Computational Biology (VIB-KU Leuven Center for Brain & Disease Research)
+        -   Topic: Single-cell transcriptomics: Analyse single-cell RNA-seq data of complex tissues
+
+# Education
+
+-   Ph.D in Biomedical Sciences, KU Leuven, Belgium ( Oct 2020 - Apr 2025)
+    -   Dissertation: Understanding human naïve pluripotency: Extraembryonic mesoderm modeling and the role of DNMT3L
+-   M.S. in Biomedical Sciences, KU Leuven, Belgium (2018-2020)
+    -   Master thesis: Determining the transcription factors important for the maintenance of human naive pluripotent stem cells
+-   B.S. in Pharmaceutical Sciences, Hanoi University of Pharmacy, Vietnam (2012-2017)
+    -   Bachelor thesis: G-quadruplex in Chromosome of Bacteria: Distribution and Sequence of Nucleotide
+
+# Bioinformatic Skills
+
+-   Programming and Scripting
+    -   Proficient in Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Biopython)
+    -   R programming (ggplot2, dplyr, DESeq2, edgeR) for statistical analysis and visualization
+    -   Bash scripting for task automation and pipeline development
+-   Data Analysis
+    -   Processing and analysis of next-generation sequencing (NGS) data (RNA-seq, scRNA-seq, scATAC-seq, CUT&RUN)
+    -   Differential gene expression analysis (DESeq2, limma)
+    -   Single-cell RNA-seq analysis using Seurat, SingleCellExperiment, Scanpy, Monocle and SCENIC
+    -   Pathway and gene set enrichment analysis (GSEA, Reactome, DAVID, CellPhoneDB)
+-   Genomics and Structural Bioinformatics
+    -   Variant calling and annotation (GATK, bcftools, ANNOVAR)
+-   Data Visualization
+    -   Creating publication-ready plots and graphs using R (ggplot2) and Python (Matplotlib, Plotly)
+    -   Custom visualization of genomic data with IGV and UCSC Genome Browser
+-   Bioinformatics Tools and Pipelines
+    -   Experience with tools like STAR, Bowtie2 for alignment
+    -   Analysis on high-performance computing (HPC) clusters
+-   Databases and Resources
+    -   Familiarity with databases such as NCBI, Ensembl, UCSC, and KEGG
+
+# Laboratory Skills
+
+-   Molecular Biology
+    -   DNA/RNA extraction and purification
+    -   PCR, qPCR, and RT-PCR
+    -   Gel electrophoresis
+    -   Cloning, plasmid construction, and transformation
+-   Cell Culture
+    -   Maintenance of human pluripotent stem cells
+    -   Generation of organoids
+    -   Cryopreservation and thawing of cells
+    -   Transfection and viral transduction
+-   Flow cytometry
+-   Microscopy and Imaging
+    -   Immunofluorescence staining and imaging
+    -   Confocal microscopy (sample preparation and image analysis)
+    -   Live-cell imaging
+
+# Other Skills
+
+-   Good communication skills: Worked effectively with multidisciplinary national and international teams to achieve shared research goals
+
+-   Strong organizational skills: Successfully managed two projects simultaneously while ensuring timely completion and high-quality outcomes
+
+-   Mentorship experience: Supervised and guided master’s students
+
+-   Team collaboration: Coordinated with institute members to successfully organize the annual De Kinderuniversiteit at KU LeuvenFellowships
+
+# Fellowships
+
+FWO Ph.D Fundamental Research Fellowship Nov 2021 - Oct 2025
+
+# Publications
+
+Please visit my [Google Scholar](https://scholar.google.com/citations?user=sDhpZpoAAAAJ&hl=en)
