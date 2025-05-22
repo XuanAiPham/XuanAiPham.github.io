@@ -1,5 +1,5 @@
 ---
-title: Xuan-Ai Pham, PhD Researcher
+title: Xuan-Ai Pham, Postdotoral Researcher
 image: img/profile.png
 page-layout: full
 about:
@@ -21,5 +21,10 @@ about:
 **Hi! I’m Xuan-Ai, a computational biologist**
 
 ::: {style="text-align: justify;"}
-Thanks for visiting my website! I am a PhD candidate at the Stem Cell Institute at KU Leuven, Belgium, specializing in human pluripotent stem cells. My research focuses on uncovering the factors that drive cell fate specification during human embryo development, using advanced single-cell omics techniques and genome editing. I am passionate about using bioinformatics to drive innovative breakthroughs in science and am always eager to tackle new challenges.
+
+I’m a passionate bioinformatics analyst with a background in molecular biology and a strong focus on next-generation sequencing (NGS) data analysis. Currently completing my PhD in Biomedical Sciences at KU Leuven, my work sits at the intersection of computational biology and stem cell research. From genome editing and high-throughput sequencing to building a human embryo atlas, my research aims to decode complex biological systems and contribute to the understanding and treatment of human diseases.
+With hands-on experience in R, Python, and high-performance computing environments, I specialize in processing large-scale omics datasets — including scRNA-seq, scATAC-seq, sc multimonics and CUT&RUN — and transforming them into meaningful biological insights. I've had the privilege of collaborating with international research teams and publishing in high-impact journals like Cell Stem Cell.
+Beyond the data, I enjoy mentoring students, managing research projects, and communicating science in ways that make it accessible and actionable. I’m always open to collaborations that push the boundaries of what's possible in biomedical research.
+
+
 :::
