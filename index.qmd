@@ -1,5 +1,5 @@
 ---
-title: Xuan-Ai Pham, Postdoctoral Researcher
+title: Xuan-Ai Pham, PhD
 image: img/profile.png
 page-layout: full
 about:
